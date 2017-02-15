@@ -16,5 +16,5 @@
 簡介：過年前，H/H大家工作稍微繁忙，閱讀方向比較雜亂，但還是整理出全球各地的重要訊息，在過年假期幫助大家防無聊。
 
 
-## 第4期（2017/02/15）：[台灣媒體最近在忙什麼？](https://github.com/hackshackerstaipei/newsletter/blob/master/20170214.md)
+## 第4期（2017/02/15）：[台灣媒體最近在忙什麼？](https://github.com/hackshackerstaipei/newsletter/blob/master/20170215.md)
 簡介：過往分享的案例多半以國外媒體為主，但本期分享的內容有滿滿的台灣媒體案例。（文末還有我們最受歡迎的職缺訊息——HH Taipei工作大平台）

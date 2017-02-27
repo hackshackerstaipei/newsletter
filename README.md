@@ -18,3 +18,7 @@
 
 ## 第4期（2017/02/15）：[台灣媒體最近在忙什麼？](https://github.com/hackshackerstaipei/newsletter/blob/master/20170215.md)
 簡介：過往分享的案例多半以國外媒體為主，但本期分享的內容有滿滿的台灣媒體案例。（文末還有我們最受歡迎的職缺訊息——HH Taipei工作大平台）
+
+
+## 第5期（2017/02/27）：[好作品的共通性？](https://github.com/hackshackerstaipei/newsletter/blob/master/20170227.md)
+簡介：春天到了，我們分享一些正能量，看好作品怎麼激發其他團隊的想像力？

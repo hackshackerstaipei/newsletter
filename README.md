@@ -22,3 +22,7 @@
 
 ## 第5期（2017/02/28）：[好作品的正能量](https://github.com/hackshackerstaipei/newsletter/blob/master/20170228.md)
 簡介：春天到了，我們分享一些正能量，看好作品怎麼激發其他團隊的想像力？
+
+
+## 第6期（2017/05/01）：[好久不見](https://github.com/hackshackerstaipei/newsletter/blob/master/20170501.md)
+簡介：好久不見，兩個好消息跟大家分享。

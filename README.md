@@ -26,3 +26,8 @@
 
 ## 第6期（2017/05/01）：[好久不見](https://github.com/hackshackerstaipei/newsletter/blob/master/20170501.md)
 簡介：好久不見，兩個好消息跟大家分享。
+
+## 第7期（2017/05/12）：[選舉的視覺化呈現](https://github.com/hackshackerstaipei/newsletter/blob/master/20170512.md)
+本週接連有兩個國際大選投票結束：法國總統第二輪選舉以及南韓總統大選。國外媒體如何報導？
+
+

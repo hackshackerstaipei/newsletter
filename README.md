@@ -30,7 +30,7 @@
 ## 第7期（2017/05/12）：[選舉的視覺化呈現](https://github.com/hackshackerstaipei/newsletter/blob/master/20170512.md)
 本週接連有兩個國際大選投票結束：法國總統第二輪選舉以及南韓總統大選。國外媒體如何報導？
 
-## 第8期（2017/05/12）：[SOPA入圍作品大公開](https://github.com/hackshackerstaipei/newsletter/blob/master/20170518.md)
+## 第8期（2017/05/18）：[SOPA入圍作品大公開](https://github.com/hackshackerstaipei/newsletter/blob/master/20170518.md)
 我們特別挑選出兩個跟科技工具運用相關的獎項類別，分享入圍作品連結、以及幕後團隊介紹或作品製作心得。
 
 

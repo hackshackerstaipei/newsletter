@@ -33,7 +33,7 @@
 ## 第8期（2017/05/18）：[SOPA入圍作品大公開](https://github.com/hackshackerstaipei/newsletter/blob/master/20170518.md)
 簡介：我們特別挑選出兩個跟科技工具運用相關的獎項類別，分享入圍作品連結、以及幕後團隊介紹或作品製作心得。
 
-## 第9期（2017/05/18）：[國外數位新聞團隊的工作秘技](https://github.com/hackshackerstaipei/newsletter/blob/master/20170719.md)
+## 第9期（2017/07/19）：[國外數位新聞團隊的工作秘技](https://github.com/hackshackerstaipei/newsletter/blob/master/20170719.md)
 國外的頂尖數位新聞團隊，他們有什麼共同特質？
 
 
